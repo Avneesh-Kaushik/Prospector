@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.android\build-cache\6a4e92f81a4f69ee01bbb29a59d2211b40fbcdf0\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1a24947e58481326173da929fd23b129f27d30fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_f3520ceedaf69b9e73cef5b6fe3706025c135971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.android\build-cache\0ef9a80f452183a627134ba98ccebc64c5311dbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31c95bd4c5574b094c34186addac8725bbad8ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.0.1_77643dae551f693397b58a2130215106852ea460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.android\build-cache\6a4e92f81a4f69ee01bbb29a59d2211b40fbcdf0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69548e329aed621896621824065a1282452efbf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dda5d5beaaacfdef147a355ed259ade33aaf2eea">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4f77aad47698c944f36da03d13a433e7f9cddfe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8d0eeea558c2c1ce6d520512e89f566e1de8b2ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_bb2efe39ad59b32a742932e19b89a7b1533ef43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.android\build-cache\636d492c0b08c520f40936d1108770397b695f6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62f85df23fb74de638d4f887184b42e19fa525e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.android\build-cache\52aabbe6a8f0aed3d7fed968dc9bc05833bd318f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1d9b16e9c6e68a051787a92a8355a19e0185baf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avneesh Kaushik\.android\build-cache\c350eb84b55263c23929e86ce620e612dfab0ef6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Avneesh Kaushik\Desktop\Prospector\Galacticon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04867456b81d2a9367ca3750601567d7fc4ab924\classes.dex" />
+    </item>
+
+</items>
